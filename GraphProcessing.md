@@ -1,6 +1,6 @@
 # 图处理系统
 
-该列表由@ikroal 维护
+该列表由[@ikroal](https://github.com/ikroal)维护
 
 * Pregel
     + **Malewicz, G., Austern, M. H., Bik, A. J. C., Dehnert, J. C., Horn, I., Leiser, N., & Czajkowski, G. (2010). Pregel : A System for Large-Scale Graph Processing. In SIGMOD Conference (pp. 135–145).**
