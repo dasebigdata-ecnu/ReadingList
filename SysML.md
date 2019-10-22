@@ -7,6 +7,7 @@
   + Parameter Server
     - Xing, E. P., Yu, Y., Ho, Q., Dai, W., Kim, J.-K., Wei, J., … Kumar, A. (2015). Petuum: A New Platform for Distributed Machine Learning on Big Data. KDD ’15 (pp. 1335–1344).
     - Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., … Zheng, X. (2016). TensorFlow: A System for Large-Scale Machine Learning. In OSDI (pp. 265–284).
+    - Huang, Y., Jin, T., Wu, Y., Cai, Z., Yan, X., Yang, F., … Cheng, J. (2018). FlexPS: Flexible parallelism control in parameter server architecture. Proceedings of the VLDB Endowment, 11(5), 566–579.
     - Zhang, Z., Cui, B., Shao, Y., Yu, L., Jiang, J., & Miao, X. (2019). PS2: Parameter Server on Spark. In Proceedings of the 2019 International Conference on Management of Data - SIGMOD ’19 (pp. 376–388).
 
 * Inference/Serving System
