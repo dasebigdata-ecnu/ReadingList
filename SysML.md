@@ -23,3 +23,7 @@
 
 * Reinforcement Learning	
   + Moritz, P., Nishihara, R., Wang, S., Tumanov, A., Liaw, R., Liang, E., … Stoica, I. (2018). Ray : A Distributed Framework for Emerging AI Applications. In OSDI (pp. 561–577).
+
+* Relation with General-purpose Frameworks
+  + Aurick Qiao, Abutalib Aghayev, Weiren Yu, Haoyang Chen, Qirong Ho, Garth A. Gibson, Eric P. Xing:
+Litz: Elastic Framework for High-Performance Distributed Machine Learning. USENIX Annual Technical Conference 2018: 631-644
