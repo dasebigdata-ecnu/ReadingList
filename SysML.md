@@ -5,10 +5,8 @@
   + Li, M., Andersen, D. G., Park, J. W., Ahmed, A., Josifovski, V., Long, J., … Ahmed, A. (2014). Scaling Distributed Machine Learning with the Parameter Server. In OSDI (pp. 583–598).
   + Boehm, M., Surve, A. C., Tatikonda, S., Dusenberry, M. W., Eriksson, D., Evfimievski, A. V., … Sen, P. (2016). SystemML: Declarative Machine Learning on Spark. PVLDB, 9(13), 1425–1436.
   + Parameter Server
-    - Xing, E. P., Yu, Y., Ho, Q., Dai, W., Kim, J.-K., Wei, J., … Kumar, A. (2015). Petuum: A New Platform for Distributed Machine Learning on Big Data. KDD ’15 (pp. 1335–1344).
     - Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., … Zheng, X. (2016). TensorFlow: A System for Large-Scale Machine Learning. In OSDI (pp. 265–284).
     - Huang, Y., Jin, T., Wu, Y., Cai, Z., Yan, X., Yang, F., … Cheng, J. (2018). FlexPS: Flexible parallelism control in parameter server architecture. Proceedings of the VLDB Endowment, 11(5), 566–579.
-    - Zhang, Z., Cui, B., Shao, Y., Yu, L., Jiang, J., & Miao, X. (2019). PS2: Parameter Server on Spark. In Proceedings of the 2019 International Conference on Management of Data - SIGMOD ’19 (pp. 376–388).
 
 * Inference/Serving System
   + Lee, Y., Scolari, A., Chun, B.-G., Santambrogio, M. D., Weimer, M., & Interlandi, M. (2018). PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems. In OSDI.
@@ -17,13 +15,15 @@
   + Crankshaw, D., Bailis, P., Gonzalez, J. E., Li, H., Zhang, Z., Franklin, M. J., … Jordan, M. I. (2015). The Missing Piece in Complex Analytics: Low Latency, Scalable Model Management and Serving with Velox. In CIDR.
 
 * ML Pipelines
-  + Xin, D., Macke, S., Ma, L., Liu, J., Song, S., & Parameswaran, A. (2018). Helix: Holistic Optimization for Accelerating Iterative Machine Learning. PVLDB, 12(4), 446–460.
   + Shang, Z., Zgraggen, E., Buratti, B., Chung, Y., Eichmann, P., Binnig, C., … Kraska, T. (2019). Democratizing Data Science through Interactive Curation of ML Pipelines. In SIGMOD Conference (pp. 1171–1188).
   + Kunft, A., Katsifodimos, A., & Schelter, S. (2019). An Intermediate Representation for Optimizing Machine Learning Pipelines. PVLDB, 12(11), 1553–1567.
+  + Xin, D., Macke, S., Ma, L., Liu, J., Song, S., & Parameswaran, A. (2018). Helix: Holistic Optimization for Accelerating Iterative Machine Learning. PVLDB, 12(4), 446–460.
 
 * Reinforcement Learning	
   + Moritz, P., Nishihara, R., Wang, S., Tumanov, A., Liaw, R., Liang, E., … Stoica, I. (2018). Ray : A Distributed Framework for Emerging AI Applications. In OSDI (pp. 561–577).
 
 * Relation with General-purpose Frameworks
+  + Zhang, Z., Cui, B., Shao, Y., Yu, L., Jiang, J., & Miao, X. (2019). PS2: Parameter Server on Spark. In Proceedings of the 2019 International Conference on Management of Data - SIGMOD ’19 (pp. 376–388).
   + Aurick Qiao, Abutalib Aghayev, Weiren Yu, Haoyang Chen, Qirong Ho, Garth A. Gibson, Eric P. Xing:
 Litz: Elastic Framework for High-Performance Distributed Machine Learning. USENIX Annual Technical Conference 2018: 631-644
+  + Xing, E. P., Yu, Y., Ho, Q., Dai, W., Kim, J.-K., Wei, J., … Kumar, A. (2015). Petuum: A New Platform for Distributed Machine Learning on Big Data. KDD ’15 (pp. 1335–1344).
