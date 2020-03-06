@@ -13,7 +13,6 @@
   + Crankshaw, D., Wang, X., Zhou, G., Franklin, M. J., Gonzalez, J. E., Zhou, G., & Stoica, I. (2017). Clipper: A Low-Latency Online Prediction Serving System. In NSDI.
   + Olston, C., & Harmsen, J. (2017). TensorFlow-Serving: Flexible, High-Performance ML Serving. In NIPS (pp. 1–8).
   + Crankshaw, D., Bailis, P., Gonzalez, J. E., Li, H., Zhang, Z., Franklin, M. J., … Jordan, M. I. (2015). The Missing Piece in Complex Analytics: Low Latency, Scalable Model Management and Serving with Velox. In CIDR.
-  + Crankshaw, D., Wang, X., Zhou, G., Franklin, M. J., Gonzalez, J. E., Stoica, I., & Zhou, G. (2017). Clipper: A Low-Latency Online Prediction Serving System. In NSDI.
 
 * ML Pipelines
   + Shang, Z., Zgraggen, E., Buratti, B., Chung, Y., Eichmann, P., Binnig, C., … Kraska, T. (2019). Democratizing Data Science through Interactive Curation of ML Pipelines. In SIGMOD Conference (pp. 1171–1188).
