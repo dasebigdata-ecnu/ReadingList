@@ -90,3 +90,11 @@
 * GraphX
     + Xin, R. S., Gonzalez, J. E., Franklin, M. J., & Stoica, I. (2013). GraphX: A Resilient Distributed Graph System on Spark. In GRADES (p. 2:1-2:6).	
 	+ Gonzalez, J. E., Xin, R. S., Dave, A., Crankshaw, D., Franklin, M. J., Stoica, I., & Amplab, B. (2014). GraphX : Graph Processing in a Distributed Dataflow Framework. In OSDI (pp. 599–613).
+	
+
+## 综述
+
+* 王珊,王会举,覃雄派,周烜.架构大数据:挑战、现状与展望[J].计算机学报,2011,34(10):1741-1752.
+* 程学旗,靳小龙,王元卓,郭嘉丰,张铁赢,李国杰.大数据系统和分析技术综述[J].软件学报,2014,25(09):1889-1908.
+* 孙大为,张广艳,郑纬民.大数据流式计算:关键技术及系统实例[J].软件学报,2014,25(04):839-862.
+* 杜小勇,卢卫,张峰.大数据管理系统的历史、现状与未来[J].软件学报,2019,30(01):127-141.
